@@ -1,3 +1,4 @@
+alias clcheck="echo 'Dotfiles: working fine'"
 alias gst="git status"
 alias blender="~/Applications/blender/blender"
 
