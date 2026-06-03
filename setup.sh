@@ -1,4 +1,4 @@
 # Move config files
 
-mv nvim ../nvim
-mv kitty ../kitty
+DOTFILES="$HOME/.config/dotfiles"
+ln -sfn "$DOTFILES/nvim" ~/.config/nvim 
