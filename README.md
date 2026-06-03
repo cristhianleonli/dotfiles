@@ -8,10 +8,12 @@ Here you can find:
 - Kitty configuration
 - Aliases
 
-### Steps:
+### Steps
 
 - Install kitty
 - Install zsh
+- Install starship
+
 - Clone repo
 - Run `./setup.sh`
-
+- Add `source .aliases` to the end of `.zshrc` file
