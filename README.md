@@ -7,3 +7,11 @@ Here you can find:
 - Vim keymaps to navigate splits
 - Kitty configuration
 - Aliases
+
+### Steps:
+
+- Install kitty
+- Install zsh
+- Clone repo
+- Run `./setup.sh`
+
