@@ -1,4 +1,4 @@
-## Nvim Configuration
+## Custom Configuration
 
 Here you can find:
 - Theme Catppuccin-Mocha
@@ -6,3 +6,4 @@ Here you can find:
 - NvimTree
 - Vim keymaps to navigate splits
 - Kitty configuration
+- Aliases
