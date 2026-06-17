@@ -2,6 +2,7 @@ alias clcheck="echo 'Dotfiles: working fine'"
 alias clhardreset="git add . && git reset --hard"
 alias gst="git status"
 alias blender="~/Applications/blender/blender"
+alias vim="nvim"
 
 # gpp filename
 gpp() {
